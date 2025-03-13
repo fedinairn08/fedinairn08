@@ -18,9 +18,12 @@
 #### DevOps:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
-### 💬 Contact Me
-<div id="socials">
-  <a href="https://t.me/irinafed04">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+<h2 style="display: flex; align-items: center;">
+  💬 Contact Me
+</h2>
+
+<div align="center">
+<a href="https://t.me/irinafed04" target="_blank">
+<img src=https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label= alt=telegram style="margin-bottom: 5px;" />
+</a>  
 </div>
