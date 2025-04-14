@@ -6,7 +6,6 @@
 ### 🛠️ About Me:
 - 💻 Learning programming for more than 3 years
 - 🎓 3rd year Bachelor's student at RSREU in Software Engineering
-- 📚 Know algorithms and data structures
 
 ### 🛠️ My Stack
 #### Backend:
